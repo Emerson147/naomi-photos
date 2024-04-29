@@ -33,7 +33,7 @@ body{
 .navbar span{
     position: absolute;
     bottom: 0;
-    height: 2px;
+    height: 1px;
     width: 50px;
     background: linear-gradient(90deg , transparent , #fff);
     animation: animate 5s infinite linear;
@@ -53,7 +53,7 @@ body{
 
 .logo{
     text-transform: capitalize;
-    font-size: 30px;
+    font-size: 40px;
     cursor: pointer;
     font-family: w;
 }
